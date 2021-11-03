@@ -21,7 +21,5 @@ Updated to v110 by Kernel
 
 Auto-update disabled kindly check on my repository if it breaks on future updates.
 
-it's a dying game don't kill it's broker too.
-
-I have ton of gold where is the hoes at.
+I have ton of gold where the hoes at.
 
