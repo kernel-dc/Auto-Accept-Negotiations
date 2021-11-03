@@ -19,7 +19,7 @@ text `Deal successful` when it is successful
 
 Updated to v110 by Kernel
 
-Auto-update disabled kindly check on my repository if it breaks on future updates.
+This module does not support Auto-updates check on my repository if it breaks on future updates.
 
 I have ton of gold where the hoes at.
 
